@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>I have no answer for that.</template>
+  </category>
+<category>
+    <pattern>hello
+</pattern>
+    <template>Hello,
+how are you?
+Welcome to "De Parfume" store.
+How may i help you?</template>
+</category>
+
+<category><pattern>hey</pattern><template><srai>HELLO
+</srai></template></category>
+
+
+<category><pattern>hi</pattern><template><srai>HELLO
+</srai></template></category>
+
+
+
+
+<category>
+    <pattern>how are you</pattern>
+    <template>I'm good.
+How are you?</template>
+</category>
+
+<category><pattern>How about you</pattern><template><srai>HOW ARE YOU</srai></template></category>
+<category><pattern>How are you doing</pattern><template><srai>HOW ARE YOU</srai></template></category>
+
+<category>
+    <pattern>i want to know the price</pattern>
+    <template>Please tell me the name of perfume?</template>
+</category>
+
+<category><pattern>price</pattern><template><srai>I WANT TO KNOW THE PRICE</srai></template></category>
+<category><pattern>cost</pattern><template><srai>I WANT TO KNOW THE PRICE</srai></template></category>
+<category><pattern>what is the price</pattern><template><srai>I WANT TO KNOW THE PRICE</srai></template></category>
+<category><pattern>price of</pattern><template><srai>I WANT TO KNOW THE PRICE</srai></template></category>
+
+<category>
+    <pattern>do you have dunhill desire</pattern>
+    <template>Yes we have it.
+Price of "Dunhill Desire 100ml" is "49.99-USD".</template>
+</category>
+
+<category><pattern>price of dunhill desire</pattern><template><srai>DO YOU HAVE DUNHILL DESIRE</srai></template></category>
+<category><pattern>dunhill desire</pattern><template><srai>DO YOU HAVE DUNHILL DESIRE</srai></template></category>
+<category><pattern>dunhill</pattern><template><srai>DO YOU HAVE DUNHILL DESIRE</srai></template></category>
+<category><pattern>desire</pattern><template><srai>DO YOU HAVE DUNHILL DESIRE</srai></template></category>
+
+<category>
+    <pattern>its original</pattern>
+    <template>Yes! We only deal in original perfumes.</template>
+</category>
+
+<category><pattern>i want original perfume</pattern><template><srai>ITS ORIGINAL</srai></template></category>
+<category><pattern>original</pattern><template><srai>ITS ORIGINAL</srai></template></category>
+<category><pattern>do you have original perfumes</pattern><template><srai>ITS ORIGINAL</srai></template></category>
+<category><pattern>original perfume</pattern><template><srai>ITS ORIGINAL</srai></template></category>
+<category><pattern>100 percent original</pattern><template><srai>ITS ORIGINAL</srai></template></category>
+
+<category>
+    <pattern>i want to gift it to someone</pattern>
+    <template>As we have original perfumes, they come with original packaging and bag of the brand, but we also provide a beautiful elegant custom packaging as per customer requirement which only costs "5-USD"(you can add loving notes and your desired name on it).</template>
+</category>
+
+<category><pattern>packing</pattern><template><srai>I WANT TO GIFT IT TO SOMEONE</srai></template></category>
+<category><pattern>want to gift</pattern><template><srai>I WANT TO GIFT IT TO SOMEONE</srai></template></category>
+<category><pattern>gift someone</pattern><template><srai>I WANT TO GIFT IT TO SOMEONE</srai></template></category>
+<category><pattern>gift bag</pattern><template><srai>I WANT TO GIFT IT TO SOMEONE</srai></template></category>
+<category><pattern>custom packaging</pattern><template><srai>I WANT TO GIFT IT TO SOMEONE</srai></template></category>
+<category><pattern>packaging</pattern><template><srai>I WANT TO GIFT IT TO SOMEONE</srai></template></category>
+<category><pattern>gift wrap</pattern><template><srai>I WANT TO GIFT IT TO SOMEONE</srai></template></category>
+
+<category>
+    <pattern>your best seller perfumes</pattern>
+    <template>Our Best Seller Perfumes:
+1.Davidoff Cool Water 100ml (60-USD).
+2.Versace Eros 100ml (79.99-USD).
+3.Woody Intense 100ml (80-USD).
+4.Rasasi Royale 75ml (25-USD).
+5.Oud Misali 75ml (125-USD).</template>
+</category>
+
+<category><pattern>best seller</pattern><template><srai>YOUR BEST SELLER PERFUMES</srai></template></category>
+<category><pattern>best seller perfume</pattern><template><srai>YOUR BEST SELLER PERFUMES</srai></template></category>
+<category><pattern>best perfume</pattern><template><srai>YOUR BEST SELLER PERFUMES</srai></template></category>
+<category><pattern>recommended</pattern><template><srai>YOUR BEST SELLER PERFUMES</srai></template></category>
+<category><pattern>recommend some perfume</pattern><template><srai>YOUR BEST SELLER PERFUMES</srai></template></category>
+
+<category>
+    <pattern>delivery charges</pattern>
+    <template>Delivery is free above 50-USD of shopping, delivery time is 3-5 days in washington and 6-8 days for other cities. </template>
+</category>
+
+<category><pattern>delivery</pattern><template><srai>DELIVERY CHARGES</srai></template></category>
+<category><pattern>charges of delivery</pattern><template><srai>DELIVERY CHARGES</srai></template></category>
+
+</aiml>
